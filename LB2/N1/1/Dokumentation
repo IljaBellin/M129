@@ -27,6 +27,8 @@ Namenskonvention (gemäss Netzwerkplan)
 
 ![Alt text](image-1.png)
 
+### Was ich tat
+
 Ich teile meine Subnetze in
 160.160.250.0/25 und 160.160.250.128/25 auf.
 

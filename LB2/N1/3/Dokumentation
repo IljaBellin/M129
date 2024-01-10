@@ -20,15 +20,19 @@ Erstellen Sie vier gleichgrosse Subnetze - für jede Abteilung eines.
 
 ## Aufträge
 
-### Excel Netzwerk Tabelle ausfüllen
+### Excel Netzwerk Tabelle
 
-![Alt text](image.png)
+![Alt text](image-1.png)
 
-Ich verwendete eine 27er Netzmaske so dass ich mein Netzwerk in 8 Subnetze aufteilen konnte.  
+### Was ich tat
+
+Ich verwendete eine 28er Netzmaske so dass ich mein Netzwerk in 4 Subnetze aufteilen konnte.  
 
 Die Konfiguration machte ich so, wie sie in meiner Netzwerktabelle steht. 
 
 Die IPs setzte ich so, dass sie zu den Gerätenamen passen.
+
+### Subnetze
 
 Subnetz: 25.30.120.0/28 (IP-Range: 25.30.120.0 - 25.30.120.15)
 Subnetz: 25.30.120.16/28 (IP-Range: 25.30.120.16 - 25.30.120.31)

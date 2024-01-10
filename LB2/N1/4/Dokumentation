@@ -1,0 +1,46 @@
+# N1 Auftrag 4
+
+## Forderung
+
+Fehler finden in einem Netzwerk mit;
+
+16 Computer
+8 Switches
+1 Router
+
+## Bedingungen:
+
+Fehler festhalten
+
+## Netzplan 
+
+![Alt text](image.png)
+
+## Aufträge
+
+### Excel Netzwerk Tabelle ausfüllen
+
+![Alt text](image-1.png)
+
+### Fehler-Tabellen ausfüllen
+
+**Gefundene Fehler (und Korrekturen) für die einzelnen Aufgaben**
+
+| **Gerät** | **Gefundener Fehler, ausgeführte Korrektur**    |
+|-------------|----|
+| PC-2 | IP-Adresse ist falsch im vierten Oktett. Gem. Netzwerkplan angepasst auf 170.11.83.2 |
+| PC-3 | ... |
+| PC-10 | ... |
+
+
+
+
+**Fehlersuche Journal**
+
+| **Ausgeführter Test** | **Beobachtetes Resultat/ (Ausgeführte Korrektur)** |
+|------------|----------|
+| Test A | Beobachtung, Korrektur A  |
+| Test B | Beobachtung, Korrektur B  | 
+
+
+###
