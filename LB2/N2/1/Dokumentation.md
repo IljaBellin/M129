@@ -38,23 +38,38 @@ Subnetz 1: 133.95.48.0/25
 PC-8050 (133.95.48.50)
 PC-8080 (133.95.48.80)
 Default Gateway: 133.95.48.1
+Freie IPs: 124
+Genutzte IPs: 2
 
 Subnetz 2: 133.95.48.128/25
 PC-8130 (133.95.48.130)
 PC-8140 (133.95.48.140)
 Default Gateway: 133.95.48.129
+Freie IPs: 124
+Genutzte IPs: 2
 
 Subnetz 3: 133.95.49.0/25
 PC-9050 (133.95.49.50)
 PC-9080 (133.95.49.80)
 Default Gateway: 133.95.49.1
+Freie IPs: 124
+Genutzte IPs: 2
 
 Subnetz 4: 133.95.49.128/25
 PC-9130 (133.95.49.130)
 PC-9140 (133.95.49.140)
 Default Gateway: 133.95.49.129
+Freie IPs: 124
+Genutzte IPs: 2
 
 /25 = 255.255.255.128
+
+
+### Configs
+
+PCs
+
+
 
 
 ### Fragen
