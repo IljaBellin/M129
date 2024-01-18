@@ -20,7 +20,7 @@ Netzwerk läuft und ist gut dokumentiert.
 
 Ich muss das Netzwerk 133.95.48.0 /23 auf vier andere Netze aufteilen.
 
-Bei einem Netzwerk mit /24er Netzmaske würde dies noch nicht gehen, da ich dort nur zwei erstellen kann. Also entschied ich mich für ein /25er Netzwerk, so habe ich in jedem Subnetz 128 IP Adressen.
+Bei diesem Netzwerk würde dies mit einer /24er Netzmaske noch nicht gehen, da ich dann nur zwei Subnetze erstellen kann. Also entschied ich mich für ein /25er Netzwerk, so habe ich in jedem Subnetz 128 IP Adressen.
 
 ![Alt text](image-1.png)
 
