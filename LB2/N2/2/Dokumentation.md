@@ -20,7 +20,7 @@ Netzwerk läuft und ist gut dokumentiert.
 
 Ich muss das Netzwerk 37.105.96.0/22 auf acht andere Netze aufteilen.
 
-Bei einem Netzwerk mit /22er Netzmaske würde dies noch nicht gehen, da ich dort nur zwei erstellen kann. Also entschied ich mich für ein /25er Netzwerk, so habe ich in jedem Subnetz 128 IP Adressen.
+Bei einem Netzwerk mit /22er Netzmaske würde dies noch nicht gehen, da ich dort nur zwei erstellen kann. Also entschied ich mich für ein /25er Netzwerk, so habe ich in jedem der 8 Subnetze 128 IP Adressen.
 
 Diese Subnetztabelle half mir dabei. 
 
@@ -36,43 +36,63 @@ Subnetz 1: 37.105.96.0/25
 PC-6002: 37.105.96.2
 PC-2003: 37.105.96.3
 Default Gateway: 37.105.96.1
+Freie IPs: 124
+Genutzte IPs: 2
 
 Subnetz 2: 37.105.96.128/25
 PC-6130: 37.105.96.130
 PC-6131: 37.105.96.131
 Default Gateway: 37.105.96.129
+Freie IPs: 124
+Genutzte IPs: 2
 
 Subnetz 3: 37.105.97.0/25
 PC-7002: 37.105.97.2
 PC-7003: 37.105.97.3
 Default Gateway: 37.105.97.1
+Freie IPs: 124
+Genutzte IPs: 2
 
 Subnetz 4: 37.105.97.128/25
 PC-7130: 37.105.97.130
 PC-7131: 37.105.97.131
 Default Gateway: 37.105.97.129
+Freie IPs: 124
+Genutzte IPs: 2
 
 Subnetz 5: 37.105.98.0/25
 PC-8002: 37.105.98.2
 PC-8003: 37.105.98.3
 Default Gateway: 37.105.98.1
+Freie IPs: 124
+Genutzte IPs: 2
 
 Subnetz 6: 37.105.98.128/25
 PC-8130: 37.105.98.130
 PC-8131: 37.105.98.131
 Default Gateway: 37.105.98.129
+Freie IPs: 124
+Genutzte IPs: 2
 
 Subnetz 7: 37.105.99.0/25
 PC-9002: 37.105.99.2
 PC-9003: 37.105.99.3
 Default Gateway: 37.105.99.1
+Freie IPs: 124
+Genutzte IPs: 2
 
 Subnetz 8: 37.105.99.128/25
 PC-9130: 37.105.99.130
 PC-9131: 37.105.99.131
 Default Gateway: 37.105.99.129
+Freie IPs: 124
+Genutzte IPs: 2
 
 /25 = 255.255.255.128
+
+### Tests
+
+Ping Funktioniert
 
 
 ### Fragen

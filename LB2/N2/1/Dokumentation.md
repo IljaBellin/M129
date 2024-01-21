@@ -64,13 +64,9 @@ Genutzte IPs: 2
 
 /25 = 255.255.255.128
 
+### Tests
 
-### Configs
-
-PCs
-
-
-
+Ping Funktioniert
 
 ### Fragen
 
